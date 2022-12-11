@@ -2,7 +2,12 @@
 
 Trained models based on https://github.com/egorsmkv/radtts
 
-Under construction...
+## v1.0
+
+- Download: https://github.com/egorsmkv/ukrainian-radtts/releases/tag/v1.0
+- Voice: Lada
+
+Vocoder: https://github.com/egorsmkv/iSTFTNet-pytorch
 
 ## Look more
 
