@@ -11,7 +11,8 @@ Vocoder: https://github.com/egorsmkv/iSTFTNet-pytorch
 
 Example:
 
-https://user-images.githubusercontent.com/7875085/206881060-8c58236d-a41c-4b2e-91b4-6b58bb58de2e.mp4
+https://user-images.githubusercontent.com/7875085/206881125-b9530ec1-88aa-4369-9771-bb80067830a9.mp4
+
 
 ## Look more
 
