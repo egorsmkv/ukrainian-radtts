@@ -9,6 +9,11 @@ Trained models based on https://github.com/egorsmkv/radtts
 
 Vocoder: https://github.com/egorsmkv/iSTFTNet-pytorch
 
+Example:
+
+https://user-images.githubusercontent.com/7875085/206881060-8c58236d-a41c-4b2e-91b4-6b58bb58de2e.mp4
+
 ## Look more
 
 - Ukrainian Flowtron TTS: https://github.com/egorsmkv/ukrainian-flowtron-tts
+
