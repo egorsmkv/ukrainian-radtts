@@ -9,6 +9,8 @@ Trained models based on https://github.com/egorsmkv/radtts
 
 Vocoder: https://github.com/egorsmkv/iSTFTNet-pytorch
 
+You can use HiFiGAN as well, iSTFTNet presented here as an alternative.
+
 Example:
 
 https://user-images.githubusercontent.com/7875085/206881125-b9530ec1-88aa-4369-9771-bb80067830a9.mp4
