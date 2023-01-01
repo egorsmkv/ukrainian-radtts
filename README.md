@@ -2,7 +2,10 @@
 
 Trained models based on https://github.com/egorsmkv/radtts
 
-NOTE: use https://github.com/egorsmkv/radtts-istftnet repository, the codebases of RADTTS and iSTFTNet are merged together there.
+NOTE: 
+
+- use https://github.com/egorsmkv/radtts-istftnet repository, the codebases of RADTTS and iSTFTNet are merged together there.
+- use https://github.com/egorsmkv/radtts-hifigan repository, the codebases of RADTTS and HiFiGAN are merged together there.
 
 ## v1.0
 
@@ -21,4 +24,5 @@ https://user-images.githubusercontent.com/7875085/206881125-b9530ec1-88aa-4369-9
 ## Look more
 
 - Ukrainian Flowtron TTS: https://github.com/egorsmkv/ukrainian-flowtron-tts
-
+- https://github.com/egorsmkv/radtts-istftnet
+- https://github.com/egorsmkv/radtts-hifigan
