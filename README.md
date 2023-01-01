@@ -1,5 +1,9 @@
 # 🇺🇦 Ukrainian RADTTS
 
+🇺🇦 Join Ukrainian Text-to-Speech community: https://t.me/speech_synthesis_uk
+
+## Overview
+
 Trained models based on https://github.com/egorsmkv/radtts
 
 NOTE: 
