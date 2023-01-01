@@ -2,7 +2,7 @@
 
 Trained models based on https://github.com/egorsmkv/radtts
 
-NOTE: use https://github.com/egorsmkv/radtts-istftnet repository, the codebases are merged together there.
+NOTE: use https://github.com/egorsmkv/radtts-istftnet repository, the codebases of RADTTS and iSTFTNet are merged together there.
 
 ## v1.0
 
