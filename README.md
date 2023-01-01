@@ -2,6 +2,8 @@
 
 Trained models based on https://github.com/egorsmkv/radtts
 
+NOTE: use https://github.com/egorsmkv/radtts-istftnet repository, the codebases are merged together there.
+
 ## v1.0
 
 - Download: https://github.com/egorsmkv/ukrainian-radtts/releases/tag/v1.0
